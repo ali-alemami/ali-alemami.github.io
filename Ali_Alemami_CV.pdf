@@ -1,247 +1,332 @@
-%PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%PDF-1.3
+%éëñ¿
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 8 0 R /F4 19 0 R
+/Count 2
+/Kids [3 0 R
+5 0 R]
+/MediaBox [0 0 595.28 841.89]
+/Type /Pages
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+/Pages 1 0 R
+/Type /Catalog
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Annots [<</A <</S /URI /URI (https://ali-alemami.github.io)>>
+/Border [0 0 0]
+/F 4
+/Rect [36.85 754.27 558.43 762.27]
+/Subtype /Link
+/Type /Annot>>
+<</A <</S /URI /URI (https://github.com/ali-alemami/philo)>>
+/Border [0 0 0]
+/F 4
+/Rect [108.04 373.68 212.23 381.18]
+/Subtype /Link
+/Type /Annot>>
+<</A <</S /URI /URI (https://github.com/ali-alemami/webserv)>>
+/Border [0 0 0]
+/F 4
+/Rect [146.55 321.24 262.82 328.74]
+/Subtype /Link
+/Type /Annot>>
+<</A <</S /URI /URI (https://github.com/ali-alemami/inception)>>
+/Border [0 0 0]
+/F 4
+/Rect [91.03 268.80 209.39 276.30]
+/Subtype /Link
+/Type /Annot>>
+<</A <</S /URI /URI (https://github.com/ali-alemami/minishell)>>
+/Border [0 0 0]
+/F 4
+/Rect [89.53 216.36 207.05 223.86]
+/Subtype /Link
+/Type /Annot>>
+<</A <</S /URI /URI (https://github.com/ali-alemami/mini_rt)>>
+/Border [0 0 0]
+/F 4
+/Rect [81.03 175.26 191.88 182.76]
+/Subtype /Link
+/Type /Annot>>
+<</A <</S /URI /URI (https://github.com/ali-alemami/Bank-and-ATM-System-CPP)>>
+/Border [0 0 0]
+/F 4
+/Rect [138.54 134.16 322.74 141.66]
+/Subtype /Link
+/Type /Annot>>
+<</A <</S /URI /URI (https://github.com/ali-alemami/Contacts-App-3Tier)>>
+/Border [0 0 0]
+/F 4
+/Rect [167.03 81.71 320.40 89.21]
+/Subtype /Link
+/Type /Annot>>]
+/Contents 4 0 R
+/Parent 1 0 R
+/Resources 10 0 R
+/Type /Page
 >>
 endobj
 4 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (mailto:ali.alemami01@gmail.com)
->> /Border [ 0 0 0 ] /Rect [ 117.4818 731.64 209.046 741 ] /Subtype /Link /Type /Annot
+/Length 7542
 >>
+stream
+2 J
+0.57 w
+BT /F1 20.00 Tf ET
+q BT 240.40 787.70 Td 0.1176 0.1176 0.1176 rg (Ali Alemami) Tj ET Q
+BT /F2 9.50 Tf ET
+q BT 232.17 769.59 Td 0.1176 0.3922 0.7059 rg (Systems & Backend Developer) Tj ET Q
+BT /F2 8.00 Tf ET
+q BT 36.85 755.87 Td 0.3922 0.3922 0.3922 rg (Amman, Jordan  |  ali.alemami01@gmail.com  |  +962 780 020 203  |  github.com/ali-alemami  |  ali-alemami.github.io  |  linkedin.com/in/ali-alemami) Tj ET Q
+BT /F1 11.00 Tf ET
+q BT 45.35 726.62 Td 0.1176 0.3922 0.7059 rg (PROFILE) Tj ET Q
+0.7843 0.7843 0.7843 RG
+42.52 720.00 m 552.76 720.00 l S
+BT /F2 9.00 Tf ET
+q BT 45.35 705.25 Td 0.1961 0.1961 0.1961 rg 0.458 Tw (Systems and backend developer with hands-on experience building Unix shells, HTTP servers, and concurrent simulations in) Tj ET Q
+q BT 45.35 692.50 Td 0.1961 0.1961 0.1961 rg 2.091 Tw (C/C++ at 42 Amman, alongside enterprise desktop applications in C#/.NET. CS student at Hashemite University, 22/24) Tj ET Q
+q BT 45.35 679.74 Td 0.1961 0.1961 0.1961 rg (projects into the 42 Common Core.) Tj ET Q
+BT /F1 11.00 Tf ET
+q BT 45.35 651.50 Td 0.1176 0.3922 0.7059 rg (EDUCATION) Tj ET Q
+42.52 644.88 m 552.76 644.88 l S
+BT /F1 9.50 Tf ET
+q BT 45.35 629.28 Td 0.1176 0.1176 0.1176 rg (42 Amman) Tj ET Q
+BT /F2 8.50 Tf ET
+q BT 494.17 629.58 Td 0.3922 0.3922 0.3922 rg (2025 - Present) Tj ET Q
+q BT 45.35 616.11 Td 0.1961 0.1961 0.1961 rg (Common Core - 22/24 Projects Complete) Tj ET Q
+q BT 569.76 603.78 Td 0.1961 0.1961 0.1961 rg (-  Peer-to-peer software engineering curriculum: C/C++, POSIX APIs, memory management, concurrency.) Tj ET Q
+q BT 59.53 590.46 Td 0.1961 0.1961 0.1961 rg (-  Conducted 50+ peer code reviews and defense audits, evaluating memory leaks \(Valgrind\), race conditions, and architecture.) Tj ET Q
+BT /F1 9.50 Tf ET
+q BT 45.35 572.87 Td 0.1176 0.1176 0.1176 rg (The Hashemite University) Tj ET Q
+BT /F2 8.50 Tf ET
+q BT 461.10 573.17 Td 0.3922 0.3922 0.3922 rg (2022 - 2026 \(Expected\)) Tj ET Q
+q BT 45.35 559.70 Td 0.1961 0.1961 0.1961 rg (Bachelor of Science in Computer Science) Tj ET Q
+q BT 569.76 547.37 Td 0.1961 0.1961 0.1961 rg (-  Coursework: Algorithms, Data Structures, Computer Networks, Operating Systems.) Tj ET Q
+BT /F1 11.00 Tf ET
+q BT 45.35 517.99 Td 0.1176 0.3922 0.7059 rg (TECHNICAL SKILLS) Tj ET Q
+42.52 511.37 m 552.76 511.37 l S
+BT /F1 8.50 Tf ET
+q BT 45.35 496.06 Td 0.1176 0.1176 0.1176 rg (Languages:) Tj ET Q
+BT /F2 8.50 Tf ET
+q BT 103.45 496.06 Td 0.1961 0.1961 0.1961 rg (C \(POSIX/C99\), C++ \(98/11/17\), C# \(.NET\), SQL \(T-SQL\), Bash) Tj ET Q
+BT /F1 8.50 Tf ET
+q BT 555.59 481.89 Td 0.1176 0.1176 0.1176 rg (Systems:) Tj ET Q
+BT /F2 8.50 Tf ET
+q BT 603.78 481.89 Td 0.1961 0.1961 0.1961 rg 1.137 Tw (Memory Management \(Valgrind, ASan\), Pthreads / Mutexes / Concurrency, POSIX IPC & Signals, Network Sockets /) Tj ET Q
+q BT 603.78 467.72 Td 0.1961 0.1961 0.1961 rg (epoll) Tj ET Q
+BT /F1 8.50 Tf ET
+q BT 1065.83 453.54 Td 0.1176 0.1176 0.1176 rg (CS Fundamentals:) Tj ET Q
+BT /F2 8.50 Tf ET
+q BT 1150.84 453.54 Td 0.1961 0.1961 0.1961 rg (Data Structures & Algorithms, OOP & Design Patterns, 3-Tier Architecture, Computer Networks) Tj ET Q
+BT /F1 8.50 Tf ET
+q BT 1576.06 439.37 Td 0.1176 0.1176 0.1176 rg (Tools:) Tj ET Q
+BT /F2 8.50 Tf ET
+q BT 1611.96 439.37 Td 0.1961 0.1961 0.1961 rg (Linux/Unix, Git & GitHub, Docker & Docker Compose, NGINX, SQL Server, ADO.NET, GDB, Makefiles) Tj ET Q
+BT /F1 8.50 Tf ET
+q BT 2086.30 425.20 Td 0.1176 0.1176 0.1176 rg (Spoken:) Tj ET Q
+BT /F2 8.50 Tf ET
+q BT 2130.23 425.20 Td 0.1961 0.1961 0.1961 rg (Arabic \(Native\), English \(Fluent / Professional\)) Tj ET Q
+BT /F1 11.00 Tf ET
+q BT 45.35 396.10 Td 0.1176 0.3922 0.7059 rg (FEATURED PROJECTS) Tj ET Q
+42.52 389.48 m 552.76 389.48 l S
+BT /F1 9.00 Tf ET
+q BT 45.35 374.73 Td 0.1176 0.1176 0.1176 rg (Philosophers) Tj ET Q
+BT /F2 7.50 Tf ET
+q BT 108.04 375.18 Td 0.1176 0.3922 0.7059 rg (  \(github.com/ali-alemami/philo\)) Tj ET Q
+BT /F3 7.50 Tf ET
+q BT 45.35 363.14 Td 0.3922 0.3922 0.3922 rg (C / Concurrency) Tj ET Q
+BT /F2 8.20 Tf ET
+q BT 45.35 351.59 Td 0.1961 0.1961 0.1961 rg 1.684 Tw (Race-free multithreaded simulation of Dijkstra's Dining Philosophers using POSIX threads, mutex locks, asynchronous monitors, and) Tj ET Q
+q BT 45.35 340.25 Td 0.1961 0.1961 0.1961 rg (microsecond delta timers.) Tj ET Q
+BT /F1 9.00 Tf ET
+q BT 45.35 322.29 Td 0.1176 0.1176 0.1176 rg (Webserv \(In Progress\)) Tj ET Q
+BT /F2 7.50 Tf ET
+q BT 146.55 322.74 Td 0.1176 0.3922 0.7059 rg (  \(github.com/ali-alemami/webserv\)) Tj ET Q
+BT /F3 7.50 Tf ET
+q BT 45.35 310.70 Td 0.3922 0.3922 0.3922 rg (C++98 / Networking) Tj ET Q
+BT /F2 8.20 Tf ET
+q BT 45.35 299.15 Td 0.1961 0.1961 0.1961 rg 0.350 Tw (High-performance HTTP/1.1 server using non-blocking epoll I/O multiplexing, stateful request parsing \(GET/POST/DELETE\), NGINX-style) Tj ET Q
+q BT 45.35 287.81 Td 0.1961 0.1961 0.1961 rg (configs, and CGI execution.) Tj ET Q
+BT /F1 9.00 Tf ET
+q BT 45.35 269.85 Td 0.1176 0.1176 0.1176 rg (Inception) Tj ET Q
+BT /F2 7.50 Tf ET
+q BT 91.03 270.30 Td 0.1176 0.3922 0.7059 rg (  \(github.com/ali-alemami/inception\)) Tj ET Q
+BT /F3 7.50 Tf ET
+q BT 45.35 258.25 Td 0.3922 0.3922 0.3922 rg (DevOps / Docker) Tj ET Q
+BT /F2 8.20 Tf ET
+q BT 45.35 246.71 Td 0.1961 0.1961 0.1961 rg 0.727 Tw (Multi-service infrastructure: NGINX \(TLS v1.2/v1.3\), WordPress \(PHP-FPM\), and MariaDB microservices via Docker Compose on Alpine) Tj ET Q
+q BT 45.35 235.37 Td 0.1961 0.1961 0.1961 rg (Linux.) Tj ET Q
+BT /F1 9.00 Tf ET
+q BT 45.35 217.41 Td 0.1176 0.1176 0.1176 rg (Minishell) Tj ET Q
+BT /F2 7.50 Tf ET
+q BT 89.53 217.86 Td 0.1176 0.3922 0.7059 rg (  \(github.com/ali-alemami/minishell\)) Tj ET Q
+BT /F3 7.50 Tf ET
+q BT 45.35 205.81 Td 0.3922 0.3922 0.3922 rg (C / Unix Systems) Tj ET Q
+BT /F2 8.20 Tf ET
+q BT 45.35 194.26 Td 0.1961 0.1961 0.1961 rg (POSIX-compliant Unix shell with AST parser, subshell execution, pipelines, heredocs, variable expansions, and signal handling.) Tj ET Q
+BT /F1 9.00 Tf ET
+q BT 45.35 176.31 Td 0.1176 0.1176 0.1176 rg (mini_rt) Tj ET Q
+BT /F2 7.50 Tf ET
+q BT 81.03 176.76 Td 0.1176 0.3922 0.7059 rg (  \(github.com/ali-alemami/mini_rt\)) Tj ET Q
+BT /F3 7.50 Tf ET
+q BT 45.35 164.71 Td 0.3922 0.3922 0.3922 rg (C / Graphics) Tj ET Q
+BT /F2 8.20 Tf ET
+q BT 45.35 153.16 Td 0.1961 0.1961 0.1961 rg (3D raytracing engine from scratch: vector math, Phong illumination \(diffuse, ambient, specular, shadows\), and geometric intersections.) Tj ET Q
+BT /F1 9.00 Tf ET
+q BT 45.35 135.21 Td 0.1176 0.1176 0.1176 rg (Bank & ATM System) Tj ET Q
+BT /F2 7.50 Tf ET
+q BT 138.54 135.66 Td 0.1176 0.3922 0.7059 rg (  \(github.com/ali-alemami/Bank-and-ATM-System-CPP\)) Tj ET Q
+BT /F3 7.50 Tf ET
+q BT 45.35 123.61 Td 0.3922 0.3922 0.3922 rg (C++ / OOP) Tj ET Q
+BT /F2 8.20 Tf ET
+q BT 45.35 112.06 Td 0.1961 0.1961 0.1961 rg 1.007 Tw (Modular dual-engine banking application with bitmask-based access controls, custom file serialization \(#//#\), transaction audit logs, and) Tj ET Q
+q BT 45.35 100.72 Td 0.1961 0.1961 0.1961 rg (file-based persistence.) Tj ET Q
+BT /F1 9.00 Tf ET
+q BT 45.35 82.76 Td 0.1176 0.1176 0.1176 rg (Contacts Management App) Tj ET Q
+BT /F2 7.50 Tf ET
+q BT 167.03 83.21 Td 0.1176 0.3922 0.7059 rg (  \(github.com/ali-alemami/Contacts-App-3Tier\)) Tj ET Q
+BT /F3 7.50 Tf ET
+q BT 45.35 71.17 Td 0.3922 0.3922 0.3922 rg (C# / .NET / SQL) Tj ET Q
+BT /F2 8.20 Tf ET
+q BT 45.35 59.62 Td 0.1961 0.1961 0.1961 rg (3-tier desktop application with strict layer separation \(Presentation, Business, Data Access\), parameterized T-SQL queries via ADO.NET.) Tj ET Q
+
+endstream
 endobj
 5 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://github.com/ali-alemami)
->> /Border [ 0 0 0 ] /Rect [ 293.5512 731.64 373.7352 741 ] /Subtype /Link /Type /Annot
+/Annots [<</A <</S /URI /URI (https://github.com/ali-alemami/push_swap)>>
+/Border [0 0 0]
+/F 4
+/Rect [99.04 797.75 225.32 805.25]
+/Subtype /Link
+/Type /Annot>>
+<</A <</S /URI /URI (https://github.com/ali-alemami/42-core)>>
+/Border [0 0 0]
+/F 4
+/Rect [119.55 722.13 248.49 730.63]
+/Subtype /Link
+/Type /Annot>>
+<</A <</S /URI /URI (https://github.com/ali-alemami/Programming-Advices-Core)>>
+/Border [0 0 0]
+/F 4
+/Rect [169.55 690.95 374.53 699.45]
+/Subtype /Link
+/Type /Annot>>]
+/Contents 6 0 R
+/Parent 1 0 R
+/Resources 11 0 R
+/Type /Page
 >>
 endobj
 6 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://ali-alemami.github.io)
->> /Border [ 0 0 0 ] /Rect [ 384.4368 731.64 455.955 741 ] /Subtype /Link /Type /Annot
+/Length 1432
 >>
+stream
+2 J
+0.57 w
+0.7843 0.7843 0.7843 RG
+BT /F1 9.00 Tf ET
+q BT 45.35 798.80 Td 0.1176 0.1176 0.1176 rg (Push Swap) Tj ET Q
+BT /F2 7.50 Tf ET
+q BT 99.04 799.25 Td 0.1176 0.3922 0.7059 rg (  \(github.com/ali-alemami/push_swap\)) Tj ET Q
+BT /F3 7.50 Tf ET
+q BT 45.35 787.20 Td 0.3922 0.3922 0.3922 rg (C / Algorithms) Tj ET Q
+BT /F2 8.20 Tf ET
+q BT 45.35 775.65 Td 0.1961 0.1961 0.1961 rg (Sorting algorithm using two stacks and bitwise radix operations to sort arbitrary integers in minimal instruction counts.) Tj ET Q
+BT /F1 11.00 Tf ET
+q BT 45.35 745.05 Td 0.1176 0.3922 0.7059 rg (MASTER REPOSITORIES) Tj ET Q
+42.52 738.43 m 552.76 738.43 l S
+BT /F1 9.00 Tf ET
+q BT 45.35 723.68 Td 0.1176 0.1176 0.1176 rg (42 Core Archive) Tj ET Q
+BT /F2 8.50 Tf ET
+q BT 119.55 723.83 Td 0.1176 0.3922 0.7059 rg (  \(github.com/ali-alemami/42-core\)) Tj ET Q
+BT /F2 8.20 Tf ET
+q BT 45.35 711.16 Td 0.1961 0.1961 0.1961 rg (All 42 common core projects: Unix shells, 3D raytracers, C++ modules 00-09. 22/24 projects complete.) Tj ET Q
+BT /F1 9.00 Tf ET
+q BT 45.35 692.50 Td 0.1176 0.1176 0.1176 rg (Programming Advices Core) Tj ET Q
+BT /F2 8.50 Tf ET
+q BT 169.55 692.65 Td 0.1176 0.3922 0.7059 rg (  \(github.com/ali-alemami/Programming-Advices-Core\)) Tj ET Q
+BT /F2 8.20 Tf ET
+q BT 45.35 679.98 Td 0.1961 0.1961 0.1961 rg (225+ algorithmic solutions across 5 levels, 5 relational database schemas, and 3-tier desktop architecture in C#/.NET.) Tj ET Q
+
+endstream
 endobj
 7 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://linkedin.com/in/ali-alemami)
->> /Border [ 0 0 0 ] /Rect [ 466.6566 731.64 560.2722 741 ] /Subtype /Link /Type /Annot
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 9 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://github.com/ali-alemami/philo)
->> /Border [ 0 0 0 ] /Rect [ 178.816 525.65 197.928 535.25 ] /Subtype /Link /Type /Annot
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 10 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://github.com/ali-alemami/webserv)
->> /Border [ 0 0 0 ] /Rect [ 149.504 491.65 181.52 501.25 ] /Subtype /Link /Type /Annot
+/Font <</F1 7 0 R
+/F2 8 0 R
+/F3 9 0 R>>
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
 >>
 endobj
 11 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://github.com/ali-alemami/inception)
->> /Border [ 0 0 0 ] /Rect [ 177.936 457.65 213.496 467.25 ] /Subtype /Link /Type /Annot
+/Font <</F1 7 0 R
+/F2 8 0 R
+/F3 9 0 R>>
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
 >>
 endobj
 12 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://github.com/ali-alemami/minishell)
->> /Border [ 0 0 0 ] /Rect [ 157.936 423.65 192.616 433.25 ] /Subtype /Link /Type /Annot
+/CreationDate (D:20260902155207Z)
 >>
-endobj
-13 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://github.com/ali-alemami/mini_rt)
->> /Border [ 0 0 0 ] /Rect [ 191.728 389.65 218.4 399.25 ] /Subtype /Link /Type /Annot
->>
-endobj
-14 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://github.com/ali-alemami/cpps)
->> /Border [ 0 0 0 ] /Rect [ 227.272 355.65 245.944 365.25 ] /Subtype /Link /Type /Annot
->>
-endobj
-15 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://github.com/ali-alemami/push_swap)
->> /Border [ 0 0 0 ] /Rect [ 146.36 321.65 186.824 331.25 ] /Subtype /Link /Type /Annot
->>
-endobj
-16 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://github.com/ali-alemami/pipex)
->> /Border [ 0 0 0 ] /Rect [ 323.744 321.65 342.864 331.25 ] /Subtype /Link /Type /Annot
->>
-endobj
-17 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://github.com/ali-alemami/fract-ol)
->> /Border [ 0 0 0 ] /Rect [ 425.112 321.65 449.56 331.25 ] /Subtype /Link /Type /Annot
->>
-endobj
-18 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://github.com/ali-alemami/minitalk)
->> /Border [ 0 0 0 ] /Rect [ 537.144 321.65 564.256 331.25 ] /Subtype /Link /Type /Annot
->>
-endobj
-19 0 obj
-<<
-/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
->>
-endobj
-20 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://github.com/ali-alemami/libft)
->> /Border [ 0 0 0 ] /Rect [ 141.576 311.05 154.024 320.65 ] /Subtype /Link /Type /Annot
->>
-endobj
-21 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://github.com/ali-alemami/transcendence)
->> /Border [ 0 0 0 ] /Rect [ 286.096 311.05 338.568 320.65 ] /Subtype /Link /Type /Annot
->>
-endobj
-22 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://github.com/ali-alemami/Bank-and-ATM-System-CPP)
->> /Border [ 0 0 0 ] /Rect [ 166.384 269.8 273.056 279.4 ] /Subtype /Link /Type /Annot
->>
-endobj
-23 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://github.com/ali-alemami/Contacts-App-3Tier)
->> /Border [ 0 0 0 ] /Rect [ 260.176 246.4 334.4 256 ] /Subtype /Link /Type /Annot
->>
-endobj
-24 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://github.com/ali-alemami/Programming-Advices-Core)
->> /Border [ 0 0 0 ] /Rect [ 241.984 223 348.224 232.6 ] /Subtype /Link /Type /Annot
->>
-endobj
-25 0 obj
-<<
-/A <<
-/S /URI /Type /Action /URI (https://github.com/ali-alemami/CSharp-WinForms-Collection)
->> /Border [ 0 0 0 ] /Rect [ 186.832 165.6 298.392 175.2 ] /Subtype /Link /Type /Annot
->>
-endobj
-26 0 obj
-<<
-/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 
-  15 0 R 16 0 R 17 0 R 18 0 R 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R 25 0 R ] /Contents 30 0 R /MediaBox [ 0 0 612 792 ] /Parent 29 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 
-  /Trans <<
-
->> /Type /Page
->>
-endobj
-27 0 obj
-<<
-/PageMode /UseNone /Pages 29 0 R /Type /Catalog
->>
-endobj
-28 0 obj
-<<
-/Author (Ali Alemami) /CreationDate (D:20260901093210+03'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260901093210+03'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (Ali Alemami - Computer Science Student & Systems Developer CV) /Title (Ali Alemami - CV) /Trapped /False
->>
-endobj
-29 0 obj
-<<
-/Count 1 /Kids [ 26 0 R ] /Type /Pages
->>
-endobj
-30 0 obj
-<<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 4641
->>
-stream
-GauHN>BAN>epYlJkc1W)+X]f'M2Re7*/mHU52.aqcch$B;N90ka1@6_[[ER+s/k*/$&C=MN"`g>5d\+Hn%JGKQ^5UZppJV$2dkus`YopNB%_"/?rkHeZ.UQFcJJKl`[XG=*S,)\AfJX-eSM[TNpIN;S%Y]LlS-fQ[(=Kl99sKMPuZ(hq#\cV1TQ:80t2#IlR?.EVU_Fb1QU)_^1;Y!"?_e7f^'QHrKeB`,9Y-IptZ\*Bl:k'G)of:1YYqHJhXNXe9$!p]D2"FA4Ms=3jOd5ATmH!$^fIeb\!nSI.l5-A*eBjCq$\JEff='c*#O(G=FTp,I?KR2H.#fX^8WQ1T1J^3pf\?)Uu3"VVSYhVqT[`fd/4QD1(/&degG@>"rOlY'EF(_]7='`Crf#0XG>!ZYcW\q?m?Gf%HB<nT`-BdUDMbrDJ#j84@V^pSH!>qO?(9Q3!>dksg6<n%c7'<dNZhfF/G"VN$!]S`bp:Ph@OYe*7B5Aah9J4A1j8m(&YB//FMu%p6l=iO//cW4!thHb1K#n!JPWeEnkn;FA.8DXl8D2eKPN_6V9I!_dr[76%*lFu8@G:*?`/Y6;@^1Nn(=^eW.a$c]X.;eWNp#E\BqR>q?A<UA#*Fg7V,=AIIF],X4)S7a$S;cek''eIUM:P9TYA)U&Hq/7-'R1.c=]@S8!fN[K.[tZPRK[8(hRY`.u,$`8eL]g)1C'aaVg9iuRKot#FLL+^`+VT&S#-+LRCGEI7[5M\,hS6fa$+m33`m`>-`JUMkC]2@'Xg9/E1TZ]E%Wa5fb`+qJ:D0b6`g7m*Ou3Uk:\a2)3sI_=XSPT-4<MlBXm6glKR.n&Y%/m7/5J[)ohWRa^<WUjS[,4cDFAO<cGVea:$R<\6\WXn:fF(!H6ma.[lTE[Q:?f!Q7$-GM(FL2@@"h*iMt@DS+[4-]c_Et+S=CWjDrV>NQ1.:(N`?_,jfK]K^o4\56]2(enK7l\9cGt\u]ID!Ni>3[-r])r&M",*XAA*"@U$qcbP%RAr;5oQ#1^_]HI8E#8%j,[N!k&S4)7Bp(XG4@UEZ?7#t9?jJj!5DFPgfUpq.G]tDCQo2Ks9miKtoX1>p5LZrUC7^m>?m^WRN3mDOSS*_O2L2D&UO%9;mMRI]Jh33`q?;%u<Q!g50\e5%6LL#WISs%64Xjqh^Fbp78kFf`hH7`]N*8K#K2Ti>5ZLG"!^E8'*ghb_m`m,TiE51d[(<824QR5tp]B<uipj>7DoKb>62`a*m*qW@B=4+l83GH+].c\c0I'dBHF8%_?BiJ5]s(_:l,[)NW#`'3kH+;)o;P_&kVut5r>5LTj5-VKgh:dK:lnep[hUT5!6YO?5hGM1r)HKpFq#qQ_'[R'l#$84#JQM\m%,=&qBTjSch&FDX0Y['4-.Bc#A@6+`LYoE-']&s/MR,g;6s9)Pe\O^:b?$/RjQ&?YlWAPC'8rQE=FWl,[Pi[SZC\nqmf`'H7Ym+5fEN"/jSO'(UUq^EBmbY3Lp<_s!->2;?:E8Bg@*g(,$oSTrfi0CGZJBGX]IjM@*1[qTuR6h.eb#^o4HfG7XgMd:O'n41eVkSK93A8r\@*=Cs"$CisDlYLf>uo2W5P;1rNtGQr3S*hoT1S^-*:cD3S;'#8@D.m#M@s8*MR^HkLc?/eXbA)`b"7c1:ngRl@>#<rR8/cqDM_V3r`cMU"GGcMsuP:GSuW;]4_AG^j`B#kDc9OM3]M15)"G6!D6OE2.+e+c!^VG?A/$df3?NrIiLnMfm?kL6t]\3t.Ii9NSatdEedYBTSi=i28=;\\H2`p-cp/dsJL8'rfqqHnf/abDV;+i:?O29P5)$Djt!j^C1?'nDX.YE]T^"&&ldOkjW`$>Kkbg]$S1S3s_:`6Q&FFo!-<ZVEq+hK#`,ob3F/Z.N"G%I`K$<GF8)]!Z<HLd?6Fp8\Z[M%gc'_Y`cFafMJu6n/,dEGD3:m"DUMbdL6+B8f]M9M>VN+\**c_nMVXQ-a[1u`@E3f/5OeB'haFO!RZ&#?3V#?8QTo.4\I*P!fAA(:>P7.".SK%c^9IhhW5W3Q**JuPsf&FV^Ma:R70Q@Q"LXk<HV^mh$!/,qU%*\1V8gCNCeLOD^GRLZBT#O1:e)M4MIto_EBjI%%:6*N,"e/2bF0PfV4'^I&@*1=QHkN]q:%Pca2;Xr?:;,71s:j^[E1+&NI7/T&RISTi7k25GjYTZuH(9Web7;\Qg#W8/>'S$I';:N'_#LHDBq#iWesiQ>276IT-Nf7ZB-$VYD2X7MF)6=P1X[Q4O/-5uDi]4$PDjoj(DH%u/9G,554arlRZui;sE+Ya?f;:2E*'B+:MVei4N[]b!W4W*uLTg)&7l=NG'FB_WCQeX>_ri_G2u4B$)/?[Y5E(jm6e!]QBpaH,+]:EX0+'2T2a`bGH0`12XQEL^dHaZ)[]^5M?SY8dV(<4Qc.*m\Af.]ZFRUProsPq[5[(tF>o%J(!SmJAV-lPTYq17G`!/i&E6`?`t@.0D93c1UG0dqN;Q4_8$WA?C"Y(#2ogh7u71!:iXEGS@qX<>M2S`lH1=>pe<unO2r3@m/:q\)riu.E]OZ-0Lu/Nr*Xa88hY]agFt.E>=K\UD$a8[@lMM;DShd+`;oK+e9a3+%B,VqIq@h%-8M!Y(TSRIXaC/.,Yt/$`,#p&kqd-#`VHK<tJ9Ga&%a:a[p>A/nGV)W6?]:\J^m>JUfg?UC_WLK@!$bE,ZpMMkG7/!b<$s\N$>-4X<m8&YA9<QI2Ml9%Va#rT7tmq4E/Zi)43,IM+H]k?>"lV=&L"<utqii2VR";3E@-<h**$.gj@[S!KH4-$<W/C;KHp<C:X0F`Yp[ehocj!LT%A5#bAU>9jebG`AH"l3i'3Z5^ng=c4:gQIG*t1h8Tolr1c`d^V\C(OSrs,O0^i_S.AM9CR)*dLa\H9X9c\H'nol,]&T2!D?_V`*K?;fN&]<WGfRhTU:7BP]hCNetDpdV$Q@;f$aCXCkWQQr;m!&R_Nn2;%.K5-a=3o&/)8lN038EJu^dl5_6"lDBWI].3G=r4SF%kYO3;GJA>m@<KgFYG-UQ0>t&rXp[V]enZ@i%(5n\4.69sa&m2\1NM="F59_qQCrI(GD8j3PQMU3,DEJ*&1MHbecMp!8.d,t@g=--aKCXFjJ:@]m)df=>R&W\T<9$#`H6TfQ3)3f^X?k6np)'&\>>d>JeAZ7t+N8RfWO$T-XWfF0@fqb`#uSYhYle)eo%3A>3(OtC#>um&59^ZHB4e&Cmrj8MXi0t&g!Rd,8=%+0KqLi\AV>Q[a^iid'ij8E7NquX5bBeDnUcg8!\dnbQ3:M(R3;\G4euOTS!su%eI9koR:b<Z^M:M43E0;Tkhb^tJUQKp"@ca,nnR0O99jk,6k26822BX4#C("O7@rV.p?Npk@mj$=mA&F<T6nY(]ZSFHe^sGZa,f3i<h%;!<[(O9:g)Y[PYB1V#pJE'//^kbdDFqE,([FSb)/6@UZ!]>27u&[T<uIeK!Q%PSd/Yc1E\sXo)t<S,tG0E"L=rmK7ZD/rThL)g$tr?g>t>c?L"HrSJp`b/i%0W5&!l$c52P^T/p1e?Xj'q>LXMte?>RUbJ$m)@$YJ@'dsr:b-:%2#[o8X?/k,>YiZO7UN5o7.X>,nEUbo<+,WP-j7qoq5p*F[/[Kl_a,7T-faQU"%ioJNO$Cqhk[+bOamf&`l$.5,4J,L*Zp3jupSYp/BlmH")m9+=XWmY`Wk)Y84kJ+fYnj+t$aArg55!en0BmgBdR?\t,45UsL*9;)'7jVHmm5t3H#A#lhC?Z2:ne:u<gR!&DNl@ffUR24.Q,UDjP*2]7F>;/f0?(6p//B0+&.m<4M3"YS=Qq$l%nS&O_7*mR_ce:%*W/Dq[LKGJ!9[O\"]D9f8%1YNYV12!hL$(574%t$n52N%XJD*HB%,9p(S#oSSG^4>O9#lq,5V,E_W^#17ihJ@t(di<eV^)Xp[NX3_kLq1_p/.Nt4=GdjeSF5MCpnRm?0(B2u4ZqD!PFnB9Yn0:lk2EaAj3)%N3p]YpftoKWX24/s'S-UU"Y?>!,/<9@-,:9%(n&fIhj8XH25Ro:L5WkE%>(e;0k1s-lp<Td\G+4C`OcQmOV/4QrLnAI_C;C@FEm--O!<0s+([5cYMPg,s7bLUFZU*HYe-,XX^>sE/jAok_d?U'sm&@sl\O@Y.2KM+4G<s%T@)sbu&BA7]i!0)R1%=4W+A_*`7%?6!i2mRb+XD&h.dL"I-n_!oY<kA%LHlPSd3AWMU#noVlJSCu&1AQ=FR.,6mN]hk.-rs3'?\g"u10J*L#WPuq_>78Y:&-3)>*/s)I)(qg""BD+,JS$!VR2^O'N4U]Ft,ce0qDHY<:=aJU\2P:rl]P.?D?^-6t"/#Vj]i'%5rJa&-:6HoDf&KJ"q@p'slY<qgJ;=^;f_eT-oWr>j'L'-JP\D+aG;3jXO-5B%5YHTsC!<I*/puDB_5c`j8(ih(uJ,qU"S.Gc5(\e,,,$*J`,XP#-@-86`X>BW)W%X8NATfm1"&_tIdD,]!<$6`SR7!L]+^ooi7ARYdB'b/I9nrNUq<e4afg^ZZrU4OREXpD"DnhCKL_a[rBLDGG=0"/EH=]EDMINqT(\e2H]>)9-sADW"CKQ:FAbopf)O%l=p+4FR3(3Oh]e$hs#-hY]SSdMn/~>endstream
 endobj
 xref
-0 31
+0 13
 0000000000 65535 f 
-0000000061 00000 n 
-0000000123 00000 n 
-0000000230 00000 n 
-0000000342 00000 n 
-0000000516 00000 n 
-0000000691 00000 n 
-0000000864 00000 n 
-0000001044 00000 n 
-0000001163 00000 n 
-0000001345 00000 n 
-0000001529 00000 n 
-0000001716 00000 n 
-0000001903 00000 n 
-0000002086 00000 n 
-0000002268 00000 n 
-0000002454 00000 n 
-0000002637 00000 n 
-0000002822 00000 n 
-0000003008 00000 n 
-0000003124 00000 n 
-0000003307 00000 n 
-0000003498 00000 n 
-0000003697 00000 n 
-0000003887 00000 n 
-0000004085 00000 n 
-0000004287 00000 n 
-0000004633 00000 n 
-0000004703 00000 n 
-0000005031 00000 n 
-0000005092 00000 n 
+0000000015 00000 n 
+0000000108 00000 n 
+0000000211 00000 n 
+0000001516 00000 n 
+0000009110 00000 n 
+0000009669 00000 n 
+0000011153 00000 n 
+0000011255 00000 n 
+0000011352 00000 n 
+0000011457 00000 n 
+0000011565 00000 n 
+0000011673 00000 n 
 trailer
 <<
-/ID 
-[<3868045c384a2d2083a5c49f5e79c74d><3868045c384a2d2083a5c49f5e79c74d>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 28 0 R
-/Root 27 0 R
-/Size 31
+/Size 13
+/Root 2 0 R
+/Info 12 0 R
+/ID [<F7D01138D288AB921936F3B8822C5961><F7D01138D288AB921936F3B8822C5961>]
 >>
 startxref
-9825
+11729
 %%EOF

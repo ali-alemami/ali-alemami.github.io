@@ -2,9 +2,8 @@
 %יכס¿
 1 0 obj
 <<
-/Count 2
-/Kids [3 0 R
-5 0 R]
+/Count 1
+/Kids [3 0 R]
 /MediaBox [0 0 595.28 841.89]
 /Type /Pages
 >>
@@ -22,245 +21,222 @@ endobj
 /Annots [<</A <</S /URI /URI (https://ali-alemami.github.io)>>
 /Border [0 0 0]
 /F 4
-/Rect [36.85 754.27 558.43 762.27]
+/Rect [36.85 786.87 558.43 794.87]
 /Subtype /Link
 /Type /Annot>>
 <</A <</S /URI /URI (https://github.com/ali-alemami/philo)>>
 /Border [0 0 0]
 /F 4
-/Rect [108.04 373.68 212.23 381.18]
+/Rect [89.10 572.64 184.40 579.64]
 /Subtype /Link
 /Type /Annot>>
 <</A <</S /URI /URI (https://github.com/ali-alemami/webserv)>>
 /Border [0 0 0]
 /F 4
-/Rect [146.55 321.24 262.82 328.74]
+/Rect [72.20 550.53 178.77 557.53]
 /Subtype /Link
 /Type /Annot>>
 <</A <</S /URI /URI (https://github.com/ali-alemami/inception)>>
 /Border [0 0 0]
 /F 4
-/Rect [91.03 268.80 209.39 276.30]
+/Rect [74.36 528.42 182.88 535.42]
 /Subtype /Link
 /Type /Annot>>
 <</A <</S /URI /URI (https://github.com/ali-alemami/minishell)>>
 /Border [0 0 0]
 /F 4
-/Rect [89.53 216.36 207.05 223.86]
+/Rect [73.06 506.31 180.80 513.31]
 /Subtype /Link
 /Type /Annot>>
 <</A <</S /URI /URI (https://github.com/ali-alemami/mini_rt)>>
 /Border [0 0 0]
 /F 4
-/Rect [81.03 175.26 191.88 182.76]
+/Rect [65.69 484.20 167.20 491.20]
+/Subtype /Link
+/Type /Annot>>
+<</A <</S /URI /URI (https://github.com/ali-alemami/cpps)>>
+/Border [0 0 0]
+/F 4
+/Rect [110.35 462.09 205.64 469.09]
+/Subtype /Link
+/Type /Annot>>
+<</A <</S /URI /URI (https://github.com/ali-alemami/push_swap)>>
+/Border [0 0 0]
+/F 4
+/Rect [82.16 439.98 198.08 446.98]
 /Subtype /Link
 /Type /Annot>>
 <</A <</S /URI /URI (https://github.com/ali-alemami/Bank-and-ATM-System-CPP)>>
 /Border [0 0 0]
 /F 4
-/Rect [138.54 134.16 322.74 141.66]
+/Rect [115.53 395.76 285.51 402.76]
 /Subtype /Link
 /Type /Annot>>
 <</A <</S /URI /URI (https://github.com/ali-alemami/Contacts-App-3Tier)>>
 /Border [0 0 0]
 /F 4
-/Rect [167.03 81.71 320.40 89.21]
-/Subtype /Link
-/Type /Annot>>]
-/Contents 4 0 R
-/Parent 1 0 R
-/Resources 10 0 R
-/Type /Page
->>
-endobj
-4 0 obj
-<<
-/Length 7542
->>
-stream
-2 J
-0.57 w
-BT /F1 20.00 Tf ET
-q BT 240.40 787.70 Td 0.1176 0.1176 0.1176 rg (Ali Alemami) Tj ET Q
-BT /F2 9.50 Tf ET
-q BT 232.17 769.59 Td 0.1176 0.3922 0.7059 rg (Systems & Backend Developer) Tj ET Q
-BT /F2 8.00 Tf ET
-q BT 36.85 755.87 Td 0.3922 0.3922 0.3922 rg (Amman, Jordan  |  ali.alemami01@gmail.com  |  +962 780 020 203  |  github.com/ali-alemami  |  ali-alemami.github.io  |  linkedin.com/in/ali-alemami) Tj ET Q
-BT /F1 11.00 Tf ET
-q BT 45.35 726.62 Td 0.1176 0.3922 0.7059 rg (PROFILE) Tj ET Q
-0.7843 0.7843 0.7843 RG
-42.52 720.00 m 552.76 720.00 l S
-BT /F2 9.00 Tf ET
-q BT 45.35 705.25 Td 0.1961 0.1961 0.1961 rg 0.458 Tw (Systems and backend developer with hands-on experience building Unix shells, HTTP servers, and concurrent simulations in) Tj ET Q
-q BT 45.35 692.50 Td 0.1961 0.1961 0.1961 rg 2.091 Tw (C/C++ at 42 Amman, alongside enterprise desktop applications in C#/.NET. CS student at Hashemite University, 22/24) Tj ET Q
-q BT 45.35 679.74 Td 0.1961 0.1961 0.1961 rg (projects into the 42 Common Core.) Tj ET Q
-BT /F1 11.00 Tf ET
-q BT 45.35 651.50 Td 0.1176 0.3922 0.7059 rg (EDUCATION) Tj ET Q
-42.52 644.88 m 552.76 644.88 l S
-BT /F1 9.50 Tf ET
-q BT 45.35 629.28 Td 0.1176 0.1176 0.1176 rg (42 Amman) Tj ET Q
-BT /F2 8.50 Tf ET
-q BT 494.17 629.58 Td 0.3922 0.3922 0.3922 rg (2025 - Present) Tj ET Q
-q BT 45.35 616.11 Td 0.1961 0.1961 0.1961 rg (Common Core - 22/24 Projects Complete) Tj ET Q
-q BT 569.76 603.78 Td 0.1961 0.1961 0.1961 rg (-  Peer-to-peer software engineering curriculum: C/C++, POSIX APIs, memory management, concurrency.) Tj ET Q
-q BT 59.53 590.46 Td 0.1961 0.1961 0.1961 rg (-  Conducted 50+ peer code reviews and defense audits, evaluating memory leaks \(Valgrind\), race conditions, and architecture.) Tj ET Q
-BT /F1 9.50 Tf ET
-q BT 45.35 572.87 Td 0.1176 0.1176 0.1176 rg (The Hashemite University) Tj ET Q
-BT /F2 8.50 Tf ET
-q BT 461.10 573.17 Td 0.3922 0.3922 0.3922 rg (2022 - 2026 \(Expected\)) Tj ET Q
-q BT 45.35 559.70 Td 0.1961 0.1961 0.1961 rg (Bachelor of Science in Computer Science) Tj ET Q
-q BT 569.76 547.37 Td 0.1961 0.1961 0.1961 rg (-  Coursework: Algorithms, Data Structures, Computer Networks, Operating Systems.) Tj ET Q
-BT /F1 11.00 Tf ET
-q BT 45.35 517.99 Td 0.1176 0.3922 0.7059 rg (TECHNICAL SKILLS) Tj ET Q
-42.52 511.37 m 552.76 511.37 l S
-BT /F1 8.50 Tf ET
-q BT 45.35 496.06 Td 0.1176 0.1176 0.1176 rg (Languages:) Tj ET Q
-BT /F2 8.50 Tf ET
-q BT 103.45 496.06 Td 0.1961 0.1961 0.1961 rg (C \(POSIX/C99\), C++ \(98/11/17\), C# \(.NET\), SQL \(T-SQL\), Bash) Tj ET Q
-BT /F1 8.50 Tf ET
-q BT 555.59 481.89 Td 0.1176 0.1176 0.1176 rg (Systems:) Tj ET Q
-BT /F2 8.50 Tf ET
-q BT 603.78 481.89 Td 0.1961 0.1961 0.1961 rg 1.137 Tw (Memory Management \(Valgrind, ASan\), Pthreads / Mutexes / Concurrency, POSIX IPC & Signals, Network Sockets /) Tj ET Q
-q BT 603.78 467.72 Td 0.1961 0.1961 0.1961 rg (epoll) Tj ET Q
-BT /F1 8.50 Tf ET
-q BT 1065.83 453.54 Td 0.1176 0.1176 0.1176 rg (CS Fundamentals:) Tj ET Q
-BT /F2 8.50 Tf ET
-q BT 1150.84 453.54 Td 0.1961 0.1961 0.1961 rg (Data Structures & Algorithms, OOP & Design Patterns, 3-Tier Architecture, Computer Networks) Tj ET Q
-BT /F1 8.50 Tf ET
-q BT 1576.06 439.37 Td 0.1176 0.1176 0.1176 rg (Tools:) Tj ET Q
-BT /F2 8.50 Tf ET
-q BT 1611.96 439.37 Td 0.1961 0.1961 0.1961 rg (Linux/Unix, Git & GitHub, Docker & Docker Compose, NGINX, SQL Server, ADO.NET, GDB, Makefiles) Tj ET Q
-BT /F1 8.50 Tf ET
-q BT 2086.30 425.20 Td 0.1176 0.1176 0.1176 rg (Spoken:) Tj ET Q
-BT /F2 8.50 Tf ET
-q BT 2130.23 425.20 Td 0.1961 0.1961 0.1961 rg (Arabic \(Native\), English \(Fluent / Professional\)) Tj ET Q
-BT /F1 11.00 Tf ET
-q BT 45.35 396.10 Td 0.1176 0.3922 0.7059 rg (FEATURED PROJECTS) Tj ET Q
-42.52 389.48 m 552.76 389.48 l S
-BT /F1 9.00 Tf ET
-q BT 45.35 374.73 Td 0.1176 0.1176 0.1176 rg (Philosophers) Tj ET Q
-BT /F2 7.50 Tf ET
-q BT 108.04 375.18 Td 0.1176 0.3922 0.7059 rg (  \(github.com/ali-alemami/philo\)) Tj ET Q
-BT /F3 7.50 Tf ET
-q BT 45.35 363.14 Td 0.3922 0.3922 0.3922 rg (C / Concurrency) Tj ET Q
-BT /F2 8.20 Tf ET
-q BT 45.35 351.59 Td 0.1961 0.1961 0.1961 rg 1.684 Tw (Race-free multithreaded simulation of Dijkstra's Dining Philosophers using POSIX threads, mutex locks, asynchronous monitors, and) Tj ET Q
-q BT 45.35 340.25 Td 0.1961 0.1961 0.1961 rg (microsecond delta timers.) Tj ET Q
-BT /F1 9.00 Tf ET
-q BT 45.35 322.29 Td 0.1176 0.1176 0.1176 rg (Webserv \(In Progress\)) Tj ET Q
-BT /F2 7.50 Tf ET
-q BT 146.55 322.74 Td 0.1176 0.3922 0.7059 rg (  \(github.com/ali-alemami/webserv\)) Tj ET Q
-BT /F3 7.50 Tf ET
-q BT 45.35 310.70 Td 0.3922 0.3922 0.3922 rg (C++98 / Networking) Tj ET Q
-BT /F2 8.20 Tf ET
-q BT 45.35 299.15 Td 0.1961 0.1961 0.1961 rg 0.350 Tw (High-performance HTTP/1.1 server using non-blocking epoll I/O multiplexing, stateful request parsing \(GET/POST/DELETE\), NGINX-style) Tj ET Q
-q BT 45.35 287.81 Td 0.1961 0.1961 0.1961 rg (configs, and CGI execution.) Tj ET Q
-BT /F1 9.00 Tf ET
-q BT 45.35 269.85 Td 0.1176 0.1176 0.1176 rg (Inception) Tj ET Q
-BT /F2 7.50 Tf ET
-q BT 91.03 270.30 Td 0.1176 0.3922 0.7059 rg (  \(github.com/ali-alemami/inception\)) Tj ET Q
-BT /F3 7.50 Tf ET
-q BT 45.35 258.25 Td 0.3922 0.3922 0.3922 rg (DevOps / Docker) Tj ET Q
-BT /F2 8.20 Tf ET
-q BT 45.35 246.71 Td 0.1961 0.1961 0.1961 rg 0.727 Tw (Multi-service infrastructure: NGINX \(TLS v1.2/v1.3\), WordPress \(PHP-FPM\), and MariaDB microservices via Docker Compose on Alpine) Tj ET Q
-q BT 45.35 235.37 Td 0.1961 0.1961 0.1961 rg (Linux.) Tj ET Q
-BT /F1 9.00 Tf ET
-q BT 45.35 217.41 Td 0.1176 0.1176 0.1176 rg (Minishell) Tj ET Q
-BT /F2 7.50 Tf ET
-q BT 89.53 217.86 Td 0.1176 0.3922 0.7059 rg (  \(github.com/ali-alemami/minishell\)) Tj ET Q
-BT /F3 7.50 Tf ET
-q BT 45.35 205.81 Td 0.3922 0.3922 0.3922 rg (C / Unix Systems) Tj ET Q
-BT /F2 8.20 Tf ET
-q BT 45.35 194.26 Td 0.1961 0.1961 0.1961 rg (POSIX-compliant Unix shell with AST parser, subshell execution, pipelines, heredocs, variable expansions, and signal handling.) Tj ET Q
-BT /F1 9.00 Tf ET
-q BT 45.35 176.31 Td 0.1176 0.1176 0.1176 rg (mini_rt) Tj ET Q
-BT /F2 7.50 Tf ET
-q BT 81.03 176.76 Td 0.1176 0.3922 0.7059 rg (  \(github.com/ali-alemami/mini_rt\)) Tj ET Q
-BT /F3 7.50 Tf ET
-q BT 45.35 164.71 Td 0.3922 0.3922 0.3922 rg (C / Graphics) Tj ET Q
-BT /F2 8.20 Tf ET
-q BT 45.35 153.16 Td 0.1961 0.1961 0.1961 rg (3D raytracing engine from scratch: vector math, Phong illumination \(diffuse, ambient, specular, shadows\), and geometric intersections.) Tj ET Q
-BT /F1 9.00 Tf ET
-q BT 45.35 135.21 Td 0.1176 0.1176 0.1176 rg (Bank & ATM System) Tj ET Q
-BT /F2 7.50 Tf ET
-q BT 138.54 135.66 Td 0.1176 0.3922 0.7059 rg (  \(github.com/ali-alemami/Bank-and-ATM-System-CPP\)) Tj ET Q
-BT /F3 7.50 Tf ET
-q BT 45.35 123.61 Td 0.3922 0.3922 0.3922 rg (C++ / OOP) Tj ET Q
-BT /F2 8.20 Tf ET
-q BT 45.35 112.06 Td 0.1961 0.1961 0.1961 rg 1.007 Tw (Modular dual-engine banking application with bitmask-based access controls, custom file serialization \(#//#\), transaction audit logs, and) Tj ET Q
-q BT 45.35 100.72 Td 0.1961 0.1961 0.1961 rg (file-based persistence.) Tj ET Q
-BT /F1 9.00 Tf ET
-q BT 45.35 82.76 Td 0.1176 0.1176 0.1176 rg (Contacts Management App) Tj ET Q
-BT /F2 7.50 Tf ET
-q BT 167.03 83.21 Td 0.1176 0.3922 0.7059 rg (  \(github.com/ali-alemami/Contacts-App-3Tier\)) Tj ET Q
-BT /F3 7.50 Tf ET
-q BT 45.35 71.17 Td 0.3922 0.3922 0.3922 rg (C# / .NET / SQL) Tj ET Q
-BT /F2 8.20 Tf ET
-q BT 45.35 59.62 Td 0.1961 0.1961 0.1961 rg (3-tier desktop application with strict layer separation \(Presentation, Business, Data Access\), parameterized T-SQL queries via ADO.NET.) Tj ET Q
-
-endstream
-endobj
-5 0 obj
-<<
-/Annots [<</A <</S /URI /URI (https://github.com/ali-alemami/push_swap)>>
-/Border [0 0 0]
-/F 4
-/Rect [99.04 797.75 225.32 805.25]
-/Subtype /Link
-/Type /Annot>>
-<</A <</S /URI /URI (https://github.com/ali-alemami/42-core)>>
-/Border [0 0 0]
-/F 4
-/Rect [119.55 722.13 248.49 730.63]
+/Rect [140.23 373.65 281.42 380.65]
 /Subtype /Link
 /Type /Annot>>
 <</A <</S /URI /URI (https://github.com/ali-alemami/Programming-Advices-Core)>>
 /Border [0 0 0]
 /F 4
-/Rect [169.55 690.95 374.53 699.45]
+/Rect [152.37 351.54 319.23 358.54]
+/Subtype /Link
+/Type /Annot>>
+<</A <</S /URI /URI (https://github.com/ali-alemami/Programming-Advices-Core)>>
+/Border [0 0 0]
+/F 4
+/Rect [136.79 329.43 303.65 336.43]
+/Subtype /Link
+/Type /Annot>>
+<</A <</S /URI /URI (https://github.com/ali-alemami/CSharp-WinForms-Collection)>>
+/Border [0 0 0]
+/F 4
+/Rect [117.69 307.32 289.21 314.32]
 /Subtype /Link
 /Type /Annot>>]
-/Contents 6 0 R
+/Contents 4 0 R
 /Parent 1 0 R
-/Resources 11 0 R
+/Resources 7 0 R
 /Type /Page
 >>
 endobj
-6 0 obj
+4 0 obj
 <<
-/Length 1432
+/Length 8197
 >>
 stream
 2 J
 0.57 w
-0.7843 0.7843 0.7843 RG
+BT /F1 18.00 Tf ET
+q BT 246.12 802.47 Td 0.098 0.098 0.098 rg (Ali Alemami) Tj ET Q
+BT /F2 8.00 Tf ET
+q BT 36.85 788.47 Td 0.3529 0.3529 0.3529 rg (Amman, Jordan  |  ali.alemami01@gmail.com  |  +962 780 020 203  |  github.com/ali-alemami  |  linkedin.com/in/ali-alemami  |  ali-alemami.github.io) Tj ET Q
+0.7059 0.7059 0.7059 RG
+34.02 783.78 m 561.26 783.78 l S
+BT /F2 7.80 Tf ET
+q BT 36.85 772.23 Td 0.1765 0.1765 0.1765 rg 0.779 Tw (Systems and backend developer with hands-on experience building Unix shells, HTTP servers, and concurrent simulations in C/C++ at 42 Amman,) Tj ET Q
+q BT 36.85 762.31 Td 0.1765 0.1765 0.1765 rg (alongside enterprise desktop applications in C#/.NET. CS student at Hashemite University, 22/24 projects into the 42 Common Core.) Tj ET Q
 BT /F1 9.00 Tf ET
-q BT 45.35 798.80 Td 0.1176 0.1176 0.1176 rg (Push Swap) Tj ET Q
+q BT 36.85 744.94 Td 0.0863 0.3529 0.6667 rg (EDUCATION) Tj ET Q
+34.02 741.26 m 561.26 741.26 l S
+BT /F1 8.50 Tf ET
+q BT 36.85 728.79 Td 0.098 0.098 0.098 rg (42 Amman  |  Common Core, 22/24 Projects Complete) Tj ET Q
+BT /F2 7.80 Tf ET
+q BT 507.26 729.00 Td 0.3529 0.3529 0.3529 rg (2025 - Present) Tj ET Q
+q BT 45.35 718.37 Td 0.1765 0.1765 0.1765 rg (-  Peer-to-peer software engineering curriculum: C/C++, POSIX APIs, memory management, concurrency.) Tj ET Q
+q BT 45.35 707.60 Td 0.1765 0.1765 0.1765 rg (-  Conducted 50+ peer code reviews and defense audits, evaluating memory leaks \(Valgrind\), race conditions, and architecture.) Tj ET Q
+BT /F1 8.50 Tf ET
+q BT 36.85 695.91 Td 0.098 0.098 0.098 rg (The Hashemite University  |  BSc Computer Science) Tj ET Q
+BT /F2 7.80 Tf ET
+q BT 476.92 696.12 Td 0.3529 0.3529 0.3529 rg (2022 - 2026 \(Expected\)) Tj ET Q
+q BT 45.35 685.49 Td 0.1765 0.1765 0.1765 rg (-  Coursework: Algorithms, Data Structures, Computer Networks, Operating Systems.) Tj ET Q
+BT /F1 9.00 Tf ET
+q BT 36.85 667.84 Td 0.0863 0.3529 0.6667 rg (TECHNICAL SKILLS) Tj ET Q
+34.02 664.16 m 561.26 664.16 l S
+BT /F1 7.80 Tf ET
+q BT 36.85 651.90 Td 0.098 0.098 0.098 rg (Languages:) Tj ET Q
+BT /F2 7.80 Tf ET
+q BT 85.63 651.90 Td 0.1765 0.1765 0.1765 rg (C \(POSIX/C99\), C++ \(98/11/17\), C# \(.NET\), SQL \(T-SQL\), Bash) Tj ET Q
+BT /F1 7.80 Tf ET
+q BT 564.09 640.56 Td 0.098 0.098 0.098 rg (Systems:) Tj ET Q
+BT /F2 7.80 Tf ET
+q BT 603.78 640.56 Td 0.1765 0.1765 0.1765 rg (Memory Management \(Valgrind, ASan\), Pthreads / Mutexes / Concurrency, POSIX IPC & Signals, Sockets / epoll) Tj ET Q
+BT /F1 7.80 Tf ET
+q BT 1091.34 629.22 Td 0.098 0.098 0.098 rg (CS Core:) Tj ET Q
+BT /F2 7.80 Tf ET
+q BT 1129.71 629.22 Td 0.1765 0.1765 0.1765 rg (Data Structures & Algorithms, OOP & Design Patterns, 3-Tier Architecture, Computer Networks) Tj ET Q
+BT /F1 7.80 Tf ET
+q BT 1618.58 617.88 Td 0.098 0.098 0.098 rg (Tools:) Tj ET Q
+BT /F2 7.80 Tf ET
+q BT 1646.99 617.88 Td 0.1765 0.1765 0.1765 rg (Linux/Unix, Git, Docker & Docker Compose, NGINX, SQL Server, ADO.NET, GDB, Makefiles) Tj ET Q
+BT /F1 7.80 Tf ET
+q BT 2145.83 606.54 Td 0.098 0.098 0.098 rg (Spoken:) Tj ET Q
+BT /F2 7.80 Tf ET
+q BT 2181.60 606.54 Td 0.1765 0.1765 0.1765 rg (Arabic \(Native\), English \(Fluent / Professional\)) Tj ET Q
+BT /F1 9.00 Tf ET
+q BT 36.85 589.03 Td 0.0863 0.3529 0.6667 rg (42 CORE PROJECTS) Tj ET Q
+34.02 585.35 m 561.26 585.35 l S
+BT /F1 7.80 Tf ET
+q BT 36.85 573.80 Td 0.098 0.098 0.098 rg (Philosophers) Tj ET Q
+BT /F2 7.00 Tf ET
+q BT 89.10 574.04 Td 0.0863 0.3529 0.6667 rg ( \(github.com/ali-alemami/philo\)) Tj ET Q
 BT /F2 7.50 Tf ET
-q BT 99.04 799.25 Td 0.1176 0.3922 0.7059 rg (  \(github.com/ali-alemami/push_swap\)) Tj ET Q
-BT /F3 7.50 Tf ET
-q BT 45.35 787.20 Td 0.3922 0.3922 0.3922 rg (C / Algorithms) Tj ET Q
-BT /F2 8.20 Tf ET
-q BT 45.35 775.65 Td 0.1961 0.1961 0.1961 rg (Sorting algorithm using two stacks and bitwise radix operations to sort arbitrary integers in minimal instruction counts.) Tj ET Q
-BT /F1 11.00 Tf ET
-q BT 45.35 745.05 Td 0.1176 0.3922 0.7059 rg (MASTER REPOSITORIES) Tj ET Q
-42.52 738.43 m 552.76 738.43 l S
+q BT 45.35 564.25 Td 0.1765 0.1765 0.1765 rg (Race-free multithreaded Dining Philosophers simulation using pthreads, mutex locks, async monitors, and microsecond delta timers.) Tj ET Q
+BT /F1 7.80 Tf ET
+q BT 36.85 551.69 Td 0.098 0.098 0.098 rg (Webserv) Tj ET Q
+BT /F2 7.00 Tf ET
+q BT 72.20 551.93 Td 0.0863 0.3529 0.6667 rg ( \(github.com/ali-alemami/webserv\)) Tj ET Q
+BT /F2 7.50 Tf ET
+q BT 45.35 542.14 Td 0.1765 0.1765 0.1765 rg (Non-blocking HTTP/1.1 server using epoll I/O multiplexing, stateful request parsing \(GET/POST/DELETE\), NGINX-style configs, and CGI execution.) Tj ET Q
+BT /F1 7.80 Tf ET
+q BT 36.85 529.58 Td 0.098 0.098 0.098 rg (Inception) Tj ET Q
+BT /F2 7.00 Tf ET
+q BT 74.36 529.82 Td 0.0863 0.3529 0.6667 rg ( \(github.com/ali-alemami/inception\)) Tj ET Q
+BT /F2 7.50 Tf ET
+q BT 45.35 520.03 Td 0.1765 0.1765 0.1765 rg (Multi-service Docker Compose infrastructure: NGINX \(TLS v1.2/v1.3\), WordPress \(PHP-FPM\), MariaDB on Alpine Linux.) Tj ET Q
+BT /F1 7.80 Tf ET
+q BT 36.85 507.47 Td 0.098 0.098 0.098 rg (Minishell) Tj ET Q
+BT /F2 7.00 Tf ET
+q BT 73.06 507.71 Td 0.0863 0.3529 0.6667 rg ( \(github.com/ali-alemami/minishell\)) Tj ET Q
+BT /F2 7.50 Tf ET
+q BT 45.35 497.92 Td 0.1765 0.1765 0.1765 rg (POSIX-compliant Unix shell with AST parser, subshell forks, pipelines, heredocs, variable expansion, and signal handling; zero leaks.) Tj ET Q
+BT /F1 7.80 Tf ET
+q BT 36.85 485.36 Td 0.098 0.098 0.098 rg (mini_rt) Tj ET Q
+BT /F2 7.00 Tf ET
+q BT 65.69 485.60 Td 0.0863 0.3529 0.6667 rg ( \(github.com/ali-alemami/mini_rt\)) Tj ET Q
+BT /F2 7.50 Tf ET
+q BT 45.35 475.81 Td 0.1765 0.1765 0.1765 rg (3D raytracing engine from scratch: vector math, Phong illumination \(diffuse/ambient/specular/shadows\), geometric intersections.) Tj ET Q
+BT /F1 7.80 Tf ET
+q BT 36.85 463.25 Td 0.098 0.098 0.098 rg (C++ Modules 00-09) Tj ET Q
+BT /F2 7.00 Tf ET
+q BT 110.35 463.49 Td 0.0863 0.3529 0.6667 rg ( \(github.com/ali-alemami/cpps\)) Tj ET Q
+BT /F2 7.50 Tf ET
+q BT 45.35 453.70 Td 0.1765 0.1765 0.1765 rg (OOP, Orthodox Canonical Form, polymorphism, templates, STL; Ford-Johnson Merge-Insert Sort with Jacobsthal pairing heuristics.) Tj ET Q
+BT /F1 7.80 Tf ET
+q BT 36.85 441.14 Td 0.098 0.098 0.098 rg (push_swap) Tj ET Q
+BT /F2 7.00 Tf ET
+q BT 82.16 441.38 Td 0.0863 0.3529 0.6667 rg ( \(github.com/ali-alemami/push_swap\)) Tj ET Q
+BT /F2 7.50 Tf ET
+q BT 45.35 431.59 Td 0.1765 0.1765 0.1765 rg (Two-stack sorting via bitwise radix operations optimized for minimal instruction counts.) Tj ET Q
 BT /F1 9.00 Tf ET
-q BT 45.35 723.68 Td 0.1176 0.1176 0.1176 rg (42 Core Archive) Tj ET Q
-BT /F2 8.50 Tf ET
-q BT 119.55 723.83 Td 0.1176 0.3922 0.7059 rg (  \(github.com/ali-alemami/42-core\)) Tj ET Q
-BT /F2 8.20 Tf ET
-q BT 45.35 711.16 Td 0.1961 0.1961 0.1961 rg (All 42 common core projects: Unix shells, 3D raytracers, C++ modules 00-09. 22/24 projects complete.) Tj ET Q
-BT /F1 9.00 Tf ET
-q BT 45.35 692.50 Td 0.1176 0.1176 0.1176 rg (Programming Advices Core) Tj ET Q
-BT /F2 8.50 Tf ET
-q BT 169.55 692.65 Td 0.1176 0.3922 0.7059 rg (  \(github.com/ali-alemami/Programming-Advices-Core\)) Tj ET Q
-BT /F2 8.20 Tf ET
-q BT 45.35 679.98 Td 0.1961 0.1961 0.1961 rg (225+ algorithmic solutions across 5 levels, 5 relational database schemas, and 3-tier desktop architecture in C#/.NET.) Tj ET Q
+q BT 36.85 412.15 Td 0.0863 0.3529 0.6667 rg (SOFTWARE DEVELOPMENT & DATABASE PROJECTS) Tj ET Q
+34.02 408.47 m 561.26 408.47 l S
+BT /F1 7.80 Tf ET
+q BT 36.85 396.92 Td 0.098 0.098 0.098 rg (Bank & ATM System) Tj ET Q
+BT /F2 7.00 Tf ET
+q BT 115.53 397.16 Td 0.0863 0.3529 0.6667 rg ( \(github.com/ali-alemami/Bank-and-ATM-System-CPP\)) Tj ET Q
+BT /F2 7.50 Tf ET
+q BT 45.35 387.37 Td 0.1765 0.1765 0.1765 rg (Dual-engine C++ banking app with bitmask access controls, custom file serialization, transaction audit logs, and file persistence.) Tj ET Q
+BT /F1 7.80 Tf ET
+q BT 36.85 374.81 Td 0.098 0.098 0.098 rg (Contacts Management App) Tj ET Q
+BT /F2 7.00 Tf ET
+q BT 140.23 375.05 Td 0.0863 0.3529 0.6667 rg ( \(github.com/ali-alemami/Contacts-App-3Tier\)) Tj ET Q
+BT /F2 7.50 Tf ET
+q BT 45.35 365.26 Td 0.1765 0.1765 0.1765 rg (3-tier C#/.NET desktop app \(Presentation / Business / Data Access layers\), parameterized T-SQL via ADO.NET, SQL Server backend.) Tj ET Q
+BT /F1 7.80 Tf ET
+q BT 36.85 352.70 Td 0.098 0.098 0.098 rg (Algorithms & Problem Solving) Tj ET Q
+BT /F2 7.00 Tf ET
+q BT 152.37 352.94 Td 0.0863 0.3529 0.6667 rg ( \(github.com/ali-alemami/Programming-Advices-Core\)) Tj ET Q
+BT /F2 7.50 Tf ET
+q BT 45.35 343.15 Td 0.1765 0.1765 0.1765 rg (225+ solutions across 5 progressive levels: data structures, matrix ops, string parsing, combinatorics, date/time arithmetic.) Tj ET Q
+BT /F1 7.80 Tf ET
+q BT 36.85 330.59 Td 0.098 0.098 0.098 rg (Database Schemas & SQL) Tj ET Q
+BT /F2 7.00 Tf ET
+q BT 136.79 330.83 Td 0.0863 0.3529 0.6667 rg ( \(github.com/ali-alemami/Programming-Advices-Core\)) Tj ET Q
+BT /F2 7.50 Tf ET
+q BT 45.35 321.04 Td 0.1765 0.1765 0.1765 rg (5 relational schemas \(Medical Clinic, E-Commerce, HR/Payroll, Vehicle Registry, Employee Analytics\) with analytical JOINs and window functions.) Tj ET Q
+BT /F1 7.80 Tf ET
+q BT 36.85 308.48 Td 0.098 0.098 0.098 rg (WinForms Collection) Tj ET Q
+BT /F2 7.00 Tf ET
+q BT 117.69 308.72 Td 0.0863 0.3529 0.6667 rg ( \(github.com/ali-alemami/CSharp-WinForms-Collection\)) Tj ET Q
+BT /F2 7.50 Tf ET
+q BT 45.35 298.93 Td 0.1765 0.1765 0.1765 rg (10+ desktop utility and game applications in C# focusing on UI event handling, input validation, and OOP principles.) Tj ET Q
 
 endstream
 endobj
-7 0 obj
+5 0 obj
 <<
 /BaseFont /Helvetica-Bold
 /Encoding /WinAnsiEncoding
@@ -268,7 +244,7 @@ endobj
 /Type /Font
 >>
 endobj
-8 0 obj
+6 0 obj
 <<
 /BaseFont /Helvetica
 /Encoding /WinAnsiEncoding
@@ -276,57 +252,36 @@ endobj
 /Type /Font
 >>
 endobj
-9 0 obj
+7 0 obj
 <<
-/BaseFont /Helvetica-Oblique
-/Encoding /WinAnsiEncoding
-/Subtype /Type1
-/Type /Font
->>
-endobj
-10 0 obj
-<<
-/Font <</F1 7 0 R
-/F2 8 0 R
-/F3 9 0 R>>
+/Font <</F1 5 0 R
+/F2 6 0 R>>
 /ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
 >>
 endobj
-11 0 obj
+8 0 obj
 <<
-/Font <</F1 7 0 R
-/F2 8 0 R
-/F3 9 0 R>>
-/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
->>
-endobj
-12 0 obj
-<<
-/CreationDate (D:20260902155207Z)
+/CreationDate (D:20260902155824Z)
 >>
 endobj
 xref
-0 13
+0 9
 0000000000 65535 f 
 0000000015 00000 n 
-0000000108 00000 n 
-0000000211 00000 n 
-0000001516 00000 n 
-0000009110 00000 n 
-0000009669 00000 n 
-0000011153 00000 n 
-0000011255 00000 n 
-0000011352 00000 n 
-0000011457 00000 n 
-0000011565 00000 n 
-0000011673 00000 n 
+0000000102 00000 n 
+0000000205 00000 n 
+0000002310 00000 n 
+0000010559 00000 n 
+0000010661 00000 n 
+0000010758 00000 n 
+0000010855 00000 n 
 trailer
 <<
-/Size 13
+/Size 9
 /Root 2 0 R
-/Info 12 0 R
-/ID [<F7D01138D288AB921936F3B8822C5961><F7D01138D288AB921936F3B8822C5961>]
+/Info 8 0 R
+/ID [<C289268D1754BCD7F5482D1BE349E9E6><C289268D1754BCD7F5482D1BE349E9E6>]
 >>
 startxref
-11729
+10910
 %%EOF

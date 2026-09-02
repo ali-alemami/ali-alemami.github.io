@@ -90,8 +90,15 @@ body {
     margin-bottom: 16px;
 }
 
+.hero-location {
+    font-size: 0.9rem;
+    color: var(--text-muted);
+    margin-bottom: 14px;
+    letter-spacing: 0.02em;
+}
+
 .hero-bio {
-    max-width: 620px;
+    max-width: 640px;
     margin: 0 auto 20px auto;
     color: var(--text-secondary);
     font-size: 0.98rem;
@@ -382,3 +389,4 @@ body {
     color: var(--text-muted);
     font-style: italic;
 }
+

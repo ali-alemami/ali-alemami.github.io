@@ -56,7 +56,14 @@ body {
     margin: 0 auto 20px auto;
 }
 
+.hero-avatar-wrap picture {
+    display: block;
+    width: 120px;
+    height: 120px;
+}
+
 .hero-avatar {
+    display: block;
     width: 120px;
     height: 120px;
     border-radius: 50%;
